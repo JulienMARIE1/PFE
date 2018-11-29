@@ -1,0 +1,2 @@
+C:\Users\Baste\Documents\Arbeit\Unity\Unity Projet Reva\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Baste\Documents\Arbeit\Unity\Unity Projet Reva\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,47 @@
+# =============== #
+# Unity generated #
+# =============== #
+gui/Temp/
+gui/Obj/
+gui/Build
+gui/Builds/
+gui/Library/
+gui/sysinfo.txt
+gui/*.stackdump
+gui/Assets/AssetStoreTools*
+gui/*.apk
+gui/*.unitypackage
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+*/[Ee]xported[Oo]bj/
+*/.vs/
+*/*.userprefs
+*/*.pidb
+*/*.pidb.meta
+*/*.suo
+*/*.csproj
+#*/*.sln
+*/*.user
+*/*.booproj
+.consulo/
+*/*.tmp
+*/*.svd
+*/*.meta
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+Corridor/Library/ShaderCache/
+Corridor/Library/metadata/
+Serveur/*
+Unity Projet Reva/*.exe
+
